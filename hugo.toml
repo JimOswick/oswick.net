@@ -70,7 +70,3 @@ disableKinds = [ "rss", "taxonomy", "term" ]
 [module]
   [[module.imports]]
     path = "github.com/gokarna-theme/gokarna-hugo"
-
-[privacy]
-  [privacy.youtube]
-    privacyEnhanced = true
